@@ -2,10 +2,9 @@
   src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" 
   width="35"></h1>
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img 
-  src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Backe
-  nd+Developer;Node.js%20|%20Python%20|%20Java%20;Always%20learning%20new%20
-  things&center=true&width=500&height=50"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer
+  ;Backend+Developer;Always+learning+new+things&center=true&width=500&height
+  =50&duration=3000&pause=1000">
   </p>
 
   ---
