@@ -28,7 +28,7 @@
   - 💻 Passionate Backend Developer
   - 🎯 Focused on scalable server-side solutions
   - 🌱 Always learning new technologies
-  - 📫 Reach me at: **your-email@example.com**
+  - 📫 Reach me at: **utkuerencan43@gmail.com**
 
   ### 🛠️ Tech Stack
   Languages: JavaScript, Python, Java, TypeScript
@@ -48,16 +48,10 @@
   <div align="center">
 
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-ba
-  dge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-    [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-ba
-  dge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-    [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-th
-  e-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
   </div>
 
   ---
   <div align="center">
-    <i>⭐️ From [erencanutku](https://github.com/erencanutku)</i>
+    <i>⭐️ From [erencanutku](https://github.com/Erencanutkuu)</i>
   </div>
