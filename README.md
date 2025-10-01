@@ -16,12 +16,28 @@
   - 🌱 Always learning new technologies
   - 📫 Reach me at: **utkuerencan43@gmail.com**
 
-  ### 🛠️ Tech Stack
-  Languages: JavaScript, Python, Java, C#
-  Backend:   Node.js, Flask
-  Database:  MongoDB, PostgreSQL, MySQL, Redis
-  Tools:     Git, Docker
 
+  <div align="center">
+    Languages: JavaScript, Python, Java, C#
+
+  </div>
+   <div align="center">
+     Backend:   Node.js, Flask
+  </div>
+   <div align="center">
+     Database:  MongoDB, PostgreSQL, MySQL, Redis
+
+  </div>
+   <div align="center">
+     Tools:     Git, Docker
+
+  </div>
+
+
+
+
+ 
+  
   ### 📊 GitHub Stats
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Erencanutk
