@@ -39,11 +39,13 @@
  
   
   ### 📊 GitHub Stats
+ <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Erencanutkuu&show_icons=true&theme=radical&hide_border=true" alt="GitHub 
+  Stats" />
+  </div>
+
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=erencanutk
-  uu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=erencan
-  utkuu&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erencanutkuu&theme=radical&hide_border=true" alt="GitHub Streak" />
   </div>
 
   ### 🌐 Connect With Me
