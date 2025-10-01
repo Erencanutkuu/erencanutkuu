@@ -31,10 +31,10 @@
   - 📫 Reach me at: **utkuerencan43@gmail.com**
 
   ### 🛠️ Tech Stack
-  Languages: JavaScript, Python, Java, TypeScript
-  Backend:   Node.js, Express, Django, Spring Boot
+  Languages: JavaScript, Python, Java, C#
+  Backend:   Node.js, flask
   Database:  MongoDB, PostgreSQL, MySQL, Redis
-  Tools:     Git, Docker, AWS, Linux, Kubernetes
+  Tools:     Git, Docker
 
   ### 📊 GitHub Stats
   <div align="center">
@@ -54,4 +54,5 @@
   ---
   <div align="center">
     <i>⭐️ From [erencanutku](https://github.com/Erencanutkuu)</i>
+    <i>⭐️ From [erencanutku](https://www.linkedin.com/in/eren-can-utku-b04046295/)</i>
   </div>
